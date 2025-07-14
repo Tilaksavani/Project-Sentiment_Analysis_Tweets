@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environments
+venv/
+env/
+tweet_env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables and config
+.env
+
+# Streamlit cache
+.streamlit/
+
+# PyCharm / VSCode settings
+.idea/
+.vscode/
+
+# Mac OS files
+.DS_Store
+
+# Model files and tokenizer
+models/saved_models/*.h5
+models/saved_models/*.pkl
+models/saved_models/*.json
+
+# Dataset (if too large or private)
+data/*.csv
+
+# Logs and outputs
+*.log
+
+# Notebook outputs (optional)
+*.out
