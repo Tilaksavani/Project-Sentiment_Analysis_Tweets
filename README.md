@@ -143,15 +143,15 @@ Domain: Artificial Intelligence & Machine Learning
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-
----
-
 ## ⭐ Credits
 
 - [NLTK](https://www.nltk.org/)
 - [Scikit-learn](https://scikit-learn.org/)
 - [TensorFlow](https://www.tensorflow.org/)
 - [Streamlit](https://streamlit.io/)
+
+---
+
+## 📄 License
+
+This project is open-source and available under the **MIT License**.
